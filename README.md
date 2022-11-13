@@ -1,2 +1,2 @@
 # Личный репозиторий дельфина Etkr4k
-[BadUSB](/etkr4k/flipper-badusb)
+[BadUSB](https://github.com/etkr4k/flipper-badusb)
